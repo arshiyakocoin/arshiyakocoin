@@ -8,7 +8,7 @@ npm install -g yarn
 
 TYT
 gfrd
-apt install cargo
+apt install cargodd
 
 sshh
 
